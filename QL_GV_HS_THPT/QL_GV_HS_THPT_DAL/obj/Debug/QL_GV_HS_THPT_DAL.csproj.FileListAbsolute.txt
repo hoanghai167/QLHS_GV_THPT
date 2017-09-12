@@ -1,0 +1,35 @@
+E:\GitHub\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.dll
+E:\GitHub\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.pdb
+E:\GitHub\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.dll
+E:\GitHub\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+E:\GitHub\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.csprojResolveAssemblyReference.cache
+E:\GitHub\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.dll
+E:\GitHub\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.pdb
+E:\Hoc_tap\ThucTapNhom\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.csprojResolveAssemblyReference.cache
+E:\Hoc_tap\ThucTapNhom\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.dll
+E:\Hoc_tap\ThucTapNhom\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.dll
+E:\Hoc_tap\ThucTapNhom\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.pdb
+E:\Hoc_tap\ThucTapNhom\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.dll
+E:\Hoc_tap\ThucTapNhom\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+E:\Hoc_tap\ThucTapNhom\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.pdb
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.dll
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.pdb
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.dll
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.csprojResolveAssemblyReference.cache
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.dll
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.pdb
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.dll
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.pdb
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.dll
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.csprojResolveAssemblyReference.cache
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.dll
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.pdb
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.dll
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.pdb
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.dll
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.csprojResolveAssemblyReference.cache
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.dll
+D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.pdb
