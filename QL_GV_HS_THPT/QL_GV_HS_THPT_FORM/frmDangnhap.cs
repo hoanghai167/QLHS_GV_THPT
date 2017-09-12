@@ -17,7 +17,7 @@ namespace QL_GV_HS_THPT_FORM
         {
             InitializeComponent();
         }
-      
+        BUS_tblUser bus_User = new BUS_tblUser();
         private void frmDangnhap_Load(object sender, EventArgs e)
         {
 
@@ -25,17 +25,44 @@ namespace QL_GV_HS_THPT_FORM
 
         private void btnDangnhap_Click(object sender, EventArgs e)
         {
-            
+            if (txtUsername.Text == null)
+            {
+                MessageBox.Show("Chưa nhập tên đăng nhập !");
+            }
+            if (txtPassword.Text == null)
+            {
+                MessageBox.Show("Chưa nhập mật khẩu !");
+            }
+            if (bus_User.checkLogin(txtUsername.Text, txtPassword.Text) != null)
+            {
+                this.Visible = false;
+                frmMain frm = new frmMain();
+                frm.ShowDialog();
+                this.Close();
+            }
+            else
+            {
+                MessageBox.Show("Tên đăng nhập hoặc mật khẩu không đúng !");
+            }
+
 
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-            
+            Application.Exit();
         }
 
         private void ckcHienpw_CheckedChanged(object sender, EventArgs e)
-        {   
+        {
+            if (ckcHienpw.Checked == true)
+            {
+                txtPassword.UseSystemPasswordChar = false;
+            }
+            else
+            {
+                txtPassword.UseSystemPasswordChar = true;
+            }
         }
 
         private void txtPassword_TextChanged(object sender, EventArgs e)

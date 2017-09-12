@@ -34,13 +34,7 @@ namespace QL_GV_HS_THPT_FORM
 
         private void nhậpHọcSinhToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmHocsinh frmHS = new frmHocsinh("TimKiem");
-            
-         
-            
-            //frmHS.TopLevel = false;
-           // pnlMain.Controls.Add(frmGV);
-            frmHS.Show();
+           
         }
 
        
