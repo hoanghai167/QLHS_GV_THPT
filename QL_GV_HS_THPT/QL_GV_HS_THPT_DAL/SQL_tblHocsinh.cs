@@ -11,7 +11,7 @@ namespace QL_GV_HS_THPT_DAL
     public class SQL_tblHocsinh
     {
         KetNoiDB cn = new KetNoiDB();
-        //Them du lieu
+        //Truy van them du lieu
         public void addHocsinh(EC_tblHocsinh et)
         {
             cn.ThucThiCauLenhSQL(@"INSERT INTO tblHocSinh ( MaHS, Ho, Ten, GT, NgaySinh, DiaChi, DanToc, TonGiao, Malop)                                                              
