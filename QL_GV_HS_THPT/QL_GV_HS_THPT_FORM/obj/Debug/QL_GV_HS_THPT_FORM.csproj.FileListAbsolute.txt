@@ -115,3 +115,23 @@ C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM
 C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_GV_HS_THPT_BUS.pdb
 C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_GV_HS_THPT_DAL.pdb
 C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_GV_HS_THPT_FORM.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_GV_HS_THPT_FORM.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_GV_HS_THPT_BUS.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_GV_HS_THPT_DAL.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_QV_HS_THPT_Entity.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_GV_HS_THPT_BUS.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_GV_HS_THPT_DAL.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.csprojResolveAssemblyReference.cache
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.frmDangnhap.resources
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.frmDKgiangday.resources
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.frmGiaovien.resources
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.frmHocsinh.resources
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.frmHuongdan.resources
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.frmMain.resources
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.frmTaikhoan.resources
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.Properties.Resources.resources
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.csproj.GenerateResource.Cache
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_FORM\obj\Debug\QL_GV_HS_THPT_FORM.pdb

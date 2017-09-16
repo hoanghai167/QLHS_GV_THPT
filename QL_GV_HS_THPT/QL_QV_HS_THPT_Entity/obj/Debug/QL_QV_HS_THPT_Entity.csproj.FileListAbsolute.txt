@@ -12,3 +12,8 @@ D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre\QL_GV
 D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.csprojResolveAssemblyReference.cache
 D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.dll
 D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.csprojResolveAssemblyReference.cache
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.pdb

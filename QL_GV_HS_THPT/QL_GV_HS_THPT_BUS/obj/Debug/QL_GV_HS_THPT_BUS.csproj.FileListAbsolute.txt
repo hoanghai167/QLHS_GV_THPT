@@ -43,3 +43,12 @@ D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Cop
 D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_BUS\obj\Debug\QL_GV_HS_THPT_BUS.csprojResolveAssemblyReference.cache
 D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_BUS\obj\Debug\QL_GV_HS_THPT_BUS.dll
 D:\Năm 4 HK1\nam 4 ki1\ThucTapNhom\QL_GV_HS_THPT\TTN_QL_GV_HS_THPT\Soucre - Copy - Copy\QL_GV_HS_THPT\QL_GV_HS_THPT_BUS\obj\Debug\QL_GV_HS_THPT_BUS.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_BUS\bin\Debug\QL_GV_HS_THPT_BUS.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_BUS\bin\Debug\QL_GV_HS_THPT_BUS.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_BUS\bin\Debug\QL_GV_HS_THPT_DAL.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_BUS\bin\Debug\QL_QV_HS_THPT_Entity.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_BUS\bin\Debug\QL_GV_HS_THPT_DAL.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_BUS\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_BUS\obj\Debug\QL_GV_HS_THPT_BUS.csprojResolveAssemblyReference.cache
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_BUS\obj\Debug\QL_GV_HS_THPT_BUS.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_BUS\obj\Debug\QL_GV_HS_THPT_BUS.pdb

@@ -101,3 +101,19 @@ C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\
 C:\Users\NTB\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT.exe.config
 C:\Users\NTB\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\Debug\QL_GV_HS_THPT.exe
 C:\Users\NTB\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\Debug\QL_GV_HS_THPT.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT.exe.config
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\Debug\QL_GV_HS_THPT.exe
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\Debug\QL_GV_HS_THPT.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT.exe
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT_BUS.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT_DAL.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT_FORM.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_QV_HS_THPT_Entity.dll
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT_BUS.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT_DAL.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT_FORM.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\Debug\QL_GV_HS_THPT.csprojResolveAssemblyReference.cache
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\Debug\QL_GV_HS_THPT.Properties.Resources.resources
+C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\Debug\QL_GV_HS_THPT.csproj.GenerateResource.Cache
