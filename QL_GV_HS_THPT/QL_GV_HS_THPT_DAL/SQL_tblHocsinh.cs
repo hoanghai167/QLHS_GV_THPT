@@ -28,10 +28,7 @@ values (N'" + et.MaHS + "',N'" + et.Ho + "',N'" + et.Ten + "',N'" + et.GT + "',N
             cn.ThucThiCauLenhSQL(@"DELETE FROM tblHocsinh WHERE MaHS = '" + et.MaHS + "'");
         }
         //select
-        public DataTable getAllHocsinh()
-        {
-            return cn.getDatatable(@"SELECT * FROM tblHocsinh ");
-        }
+        
         public DataTable getHocsinh(string dk)
         {
             return cn.getDatatable(@"SELECT * FROM tblHocsinh " + dk);
