@@ -128,22 +128,51 @@ namespace QL_GV_HS_THPT_FORM
 
         private void txtTimMaHS_Click(object sender, EventArgs e)
         {
-           
+            if (_dangTimMa)
+            {
+                txtTimMaHS.SelectionStart = txtTimMaHS.Text.Length;
+            }
+            else
+            {
+                txtTimMaHS.SelectAll();
+            }
         }
 
         private void txtTimHoHS_Click(object sender, EventArgs e)
         {
-          
+            if (_dangTimHo)
+            {
+                txtTimHoHS.SelectionStart = txtTimHoHS.Text.Length;
+            }
+            else
+            {
+                txtTimHoHS.SelectAll();
+            }
         }
 
         private void txtTimTenHS_Click(object sender, EventArgs e)
         {
-           
+            if (_dangTimTen)
+            {
+                txtTimTenHS.SelectionStart = txtTimTenHS.Text.Length;
+            }
+            else
+            {
+                txtTimTenHS.SelectAll();
+            }
         }
 
         private void cboTimMaLop_Click(object sender, EventArgs e)
         {
-           
+            cboTimMaLop.SelectionStart = cboTimMaLop.Text.Length;
+            BUS_tblHocSinh busHs = new BUS_tblHocSinh();
+            DataTable tb = busHs.getField("MaLop");
+            cboTimMaLop.Items.Clear();
+            cboTimMaLop.Items.Add("Tất cả");
+            for (int i = 0; i < tb.Rows.Count; i++)
+            {
+                cboTimMaLop.Items.Add(tb.Rows[i]["MaLop"].ToString());
+            }
         }
 
         /*private void cboTimDanToc_Click(object sender, EventArgs e)
@@ -181,12 +210,48 @@ namespace QL_GV_HS_THPT_FORM
 
         private void txtTimMaHS_TextChanged(object sender, EventArgs e)
         {
-            
+            if (txtTimMaHS.Text != "") _dangTimMa = true;
+            else _dangTimMa = false;
+            string dieukien = "where MaHS like N'%" + txtTimMaHS.Text + "%'";
+            if (_dangTimHo) dieukien += "AND Ho like N'%" + txtHo.Text + "%'";
+            if (_dangTimTen) dieukien += "AND Ten like N'%" + txtTen.Text + "%'";
+            if (_dangTimMaLop)
+            {
+                if (cboTimMaLop.SelectedIndex != 0) dieukien += "AND MaLop like N'%" + cboTimMaLop.Text + "%'";
+            }
+            /*if (_dangTimDanToc)
+            {
+                if (cboTimDanToc.SelectedIndex != 0) dieukien += "AND DanToc like N'%" + cboTimDanToc.Text + "%'";
+            }
+            if (_dangTimTonGiao)
+            {
+                if (cboTimTonGiao.SelectedIndex != 0) dieukien += "AND TonGiao like N'%" + cboTimTonGiao.Text + "%'";
+            }  */
+            DataTable tbl = busHS.getHocsinh(dieukien);
+            dgvHocSinh.DataSource = tbl;
         }
 
         private void txtTimHo_TextChanged(object sender, EventArgs e)
         {
-           
+            if (txtTimHoHS.Text != "") _dangTimHo = true;
+            else _dangTimHo = false;
+            string dieukien = "where Ho like N'%" + txtTimHoHS.Text + "%'";
+            if (_dangTimMa) dieukien += "AND MaHS like N'%" + txtMaHS.Text + "%'";
+            if (_dangTimHo) dieukien += "AND Ho like N'%" + txtHo.Text + "%'";
+            if (_dangTimMaLop)
+            {
+                if (cboTimMaLop.SelectedIndex != 0) dieukien += "AND MaLop like N'%" + cboTimMaLop.Text + "%'";
+            }
+            /*if (_dangTimDanToc)
+            {
+                if (cboTimDanToc.SelectedIndex != 0) dieukien += "AND DanToc like N'%" + cboTimDanToc.Text + "%'";
+            }
+            if (_dangTimTonGiao)
+            {
+                if (cboTimTonGiao.SelectedIndex != 0) dieukien += "AND TonGiao like N'%" + cboTimTonGiao.Text + "%'";
+            }     */
+            DataTable tbl = busHS.getHocsinh(dieukien);
+            dgvHocSinh.DataSource = tbl;
         }
         /* private void cboTimDanToc_TextChanged(object sender, EventArgs e)
          {
@@ -230,37 +295,71 @@ namespace QL_GV_HS_THPT_FORM
          }     */
         private void txtTimTenHS_Enter(object sender, EventArgs e)
         {
-           
+            txtTen.SelectionStart = txtTen.Text.Length;
         }
         private void txtTimHoHS_Enter(object sender, EventArgs e)
         {
-          
+            txtHo.SelectionStart = txtHo.Text.Length;
         }
         private void txtTimMaHS_Enter(object sender, EventArgs e)
         {
-            
+            txtMaHS.SelectionStart = txtMaHS.Text.Length;
         }
         private void txtTimMaLop_Enter(object sender, EventArgs e)
         {
-            
+            cboMaLop.SelectionStart = cboMaLop.Text.Length;
         }
         private void txtTimDanToc_Enter(object sender, EventArgs e)
         {
-           
+            cboDanToc.SelectionStart = cboDanToc.Text.Length;
         }
         private void txtTimTonGiao_Enter(object sender, EventArgs e)
         {
-          
+            cboTonGiao.SelectionStart = cboTonGiao.Text.Length;
         }
 
         private void txtTimTenHS_TextChanged(object sender, EventArgs e)
         {
-           
+            if (txtTimTenHS.Text != "") _dangTimTen = true;
+            else _dangTimTen = false;
+            string dieukien = "where Ten like N'%" + txtTimTenHS.Text + "%'";
+            if (_dangTimMa) dieukien += "AND MaHS like N'%" + txtMaHS.Text + "%'";
+            if (_dangTimTen) dieukien += "AND Ten like N'%" + txtTen.Text + "%'";
+            if (_dangTimMaLop)
+            {
+                if (cboTimMaLop.SelectedIndex != 0) dieukien += "AND MaLop like N'%" + cboTimMaLop.Text + "%'";
+            }
+            /*if (_dangTimDanToc)
+            {
+                if (cboTimDanToc.SelectedIndex != 0) dieukien += "AND DanToc like N'%" + cboTimDanToc.Text + "%'";
+            }
+            if (_dangTimTonGiao)
+            {
+                if (cboTimTonGiao.SelectedIndex != 0) dieukien += "AND TonGiao like N'%" + cboTimTonGiao.Text + "%'";
+            }      */
+            DataTable tbl = busHS.getHocsinh(dieukien);
+            dgvHocSinh.DataSource = tbl;
         }
 
         private void cboTimMaLop_TextChanged(object sender, EventArgs e)
         {
-           
+            if (cboTimMaLop.SelectedIndex != 0) _dangTimMaLop = true;
+            else _dangTimMaLop = false;
+            string dieukien = "";
+            if (cboTimMaLop.SelectedIndex == 0) dieukien = "where MaLop like N'%'";
+            else dieukien = "where MaLop like N'%" + cboTimMaLop.Text + "%'";
+            if (_dangTimMa) dieukien += "AND MaHS like N'%" + txtMaHS.Text + "%'";
+            if (_dangTimHo) dieukien += "AND Ho like N'%" + txtHo.Text + "%'";
+            /*if (_dangTimTonGiao)
+            {
+                if (cboTimTonGiao.SelectedIndex != 0) dieukien += "AND TonGiao like N'%" + cboTimTonGiao.Text + "%'";
+            }
+            if (_dangTimDanToc)
+            {
+                if (cboTimDanToc.SelectedIndex != 0) dieukien += "AND DanToc like N'%" + cboTimDanToc.Text + "%'";
+            }  */
+            DataTable tbl = busHS.getHocsinh(dieukien);
+            dgvHocSinh.DataSource = tbl;
         }
 
         private void btnThem_Click(object sender, EventArgs e)
