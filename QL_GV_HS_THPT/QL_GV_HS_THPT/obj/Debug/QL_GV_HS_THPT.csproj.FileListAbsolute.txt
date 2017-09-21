@@ -126,3 +126,16 @@ C:\Users\Khong Minh\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\ob
 C:\Users\Hung\Documents\GitHub\Quản lý học sinh\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT.exe.config
 C:\Users\Hung\Documents\GitHub\Quản lý học sinh\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\Debug\QL_GV_HS_THPT.exe
 C:\Users\Hung\Documents\GitHub\Quản lý học sinh\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\Debug\QL_GV_HS_THPT.pdb
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT.exe
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT.pdb
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT_BUS.dll
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT_DAL.dll
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT_FORM.dll
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_QV_HS_THPT_Entity.dll
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT_BUS.pdb
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT_DAL.pdb
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_GV_HS_THPT_FORM.pdb
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\Debug\QL_GV_HS_THPT.csprojResolveAssemblyReference.cache
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\Debug\QL_GV_HS_THPT.Properties.Resources.resources
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT\obj\Debug\QL_GV_HS_THPT.csproj.GenerateResource.Cache

@@ -42,3 +42,11 @@ C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_DA
 C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.csprojResolveAssemblyReference.cache
 C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.dll
 C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.pdb
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.dll
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.pdb
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.dll
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.csprojResolveAssemblyReference.cache
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.dll
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.pdb

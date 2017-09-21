@@ -12,17 +12,24 @@ namespace QL_GV_HS_THPT_DAL
     public class KetNoiDB
     {
         public static SqlConnection connect;
-       // public static string connectionString = ;
+        // public static string connectionString = ;
         //Mo ket noi
         public static void MoKetNoi()
         {
             KetNoiDB.connect = new SqlConnection(@"Data Source=DESKTOP-3E03GB4\SQLEXPRESS;Initial Catalog = QL_GV_HS_THPT; Integrated Security = SSPI;");
-          
+            if (KetNoiDB.connect == null)
+            {
+                KetNoiDB.connect = new SqlConnection(@"Data Source=DESKTOP-3E03GB4\SQLEXPRESS;Initial Catalog = QL_GV_HS_THPT; Integrated Security = SSPI;");
+            }
+            if (KetNoiDB.connect.State != ConnectionState.Open)
+            {
+                KetNoiDB.connect.Open();
+            }
         }
         //Dong ket noi
         public void DongKetNoi()
         {
-            if(KetNoiDB.connect.State != null)
+            if (KetNoiDB.connect.State != null)
             {
                 if (KetNoiDB.connect.State == ConnectionState.Open)
                 {
@@ -37,19 +44,19 @@ namespace QL_GV_HS_THPT_DAL
             {
                 MoKetNoi();
                 SqlCommand sqlCmd = new SqlCommand(strSql, connect);
-               // connect.Open();
+                // connect.Open();
                 sqlCmd.ExecuteNonQuery();
-               // connect.Close();
+                // connect.Close();
                 DongKetNoi();
                 connect.Dispose();
             }
-            catch{}
+            catch { }
         }
-        
+
         //Lay du lieu ra bang: select
         public DataTable getDatatable(string strSql)
         {
-            try 
+            try
             {
                 MoKetNoi();
                 DataTable dt = new DataTable();
@@ -68,7 +75,7 @@ namespace QL_GV_HS_THPT_DAL
             MoKetNoi();
             SqlCommand sqlCmd = new SqlCommand(strSql, connect);
             SqlDataReader sqlDr = sqlCmd.ExecuteReader();
-            while(sqlDr.Read())
+            while (sqlDr.Read())
             {
                 temp = sqlDr[0].ToString();
             }

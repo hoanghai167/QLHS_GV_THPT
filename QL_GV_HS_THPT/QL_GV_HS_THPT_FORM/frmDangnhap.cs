@@ -45,7 +45,6 @@ namespace QL_GV_HS_THPT_FORM
                 MessageBox.Show("Tên đăng nhập hoặc mật khẩu không đúng !");
             }
 
-
         }
 
         private void btnThoat_Click(object sender, EventArgs e)

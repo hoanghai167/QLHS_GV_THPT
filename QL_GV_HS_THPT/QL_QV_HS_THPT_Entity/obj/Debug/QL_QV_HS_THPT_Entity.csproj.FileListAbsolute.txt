@@ -17,3 +17,8 @@ C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_En
 C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.csprojResolveAssemblyReference.cache
 C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.dll
 C:\Users\Duong Hung\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.pdb
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.dll
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.csprojResolveAssemblyReference.cache
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.dll
+C:\Users\HOANGHAI\Documents\GitHub\QLHS_GV_THPT\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.pdb
