@@ -249,18 +249,7 @@ namespace QL_GV_HS_THPT_FORM
             string dieukien = "where MaHS like N'%" + txtTimMaHS.Text + "%'";
             if (_dangTimHo) dieukien += "AND Ho like N'%" + txtHo.Text + "%'";
             if (_dangTimTen) dieukien += "AND Ten like N'%" + txtTen.Text + "%'";
-            /*if (_dangTimMaLop)
-            {
-                if (cboTimMaLop.SelectedIndex != 0) dieukien += "AND MaLop like N'%" + cboTimMaLop.Text + "%'";
-            }  */
-            /*if (_dangTimDanToc)
-            {
-                if (cboTimDanToc.SelectedIndex != 0) dieukien += "AND DanToc like N'%" + cboTimDanToc.Text + "%'";
-            }
-            if (_dangTimTonGiao)
-            {
-                if (cboTimTonGiao.SelectedIndex != 0) dieukien += "AND TonGiao like N'%" + cboTimTonGiao.Text + "%'";
-            }  */
+          
             DataTable tbl = busGV.getgiaovien(dieukien);
             dgvGiaoVien.DataSource = tbl;
         }
