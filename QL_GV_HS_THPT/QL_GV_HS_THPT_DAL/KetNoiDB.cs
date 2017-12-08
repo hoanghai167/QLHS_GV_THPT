@@ -16,10 +16,10 @@ namespace QL_GV_HS_THPT_DAL
         //Mo ket noi
         public static void MoKetNoi()
         {
-            KetNoiDB.connect = new SqlConnection(@"Data Source=DESKTOP-3E03GB4\SQLEXPRESS;Initial Catalog = QL_GV_HS_THPT; Integrated Security = SSPI;");
+            KetNoiDB.connect = new SqlConnection(@"Data Source=DESKTOP-78OK5HK\NGUYENTHAIBAO;Initial Catalog = QL_GV_HS_THPT; Integrated Security = SSPI;");
             if (KetNoiDB.connect == null)
             {
-                KetNoiDB.connect = new SqlConnection(@"Data Source=DESKTOP-3E03GB4\SQLEXPRESS;Initial Catalog = QL_GV_HS_THPT; Integrated Security = SSPI;");
+                KetNoiDB.connect = new SqlConnection(@"Data Source=DESKTOP-78OK5HK\NGUYENTHAIBAO;Initial Catalog = QL_GV_HS_THPT; Integrated Security = SSPI;");
             }
             if (KetNoiDB.connect.State != ConnectionState.Open)
             {
